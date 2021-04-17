@@ -1,9 +1,9 @@
 ---
-title: How to display the OSM in ROS-Rviz
+title: How to display ego and surrounding vehicles of CarMaker in ROS-Rviz
 author: Minsu Cho
 date: 2021-04-17 18:28:00 +0900
-categories: [ROS, Rviz]
-tags: [map]
+categories: [CarMaker, ROS]
+tags: [CarMaker, ROS]
 # pin: true
 ---
 
