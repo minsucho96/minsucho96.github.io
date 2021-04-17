@@ -8,24 +8,18 @@ pin: true
 ---
 # STEEReoCAM
 
-  
 
 STEEReoCAM is a Stereo Vision camera for NVIDIA® Jetson TX2/AGX Xavier platform from e-con Systems, a leading Embedded Product Design Services company which specializes in the advanced camera solutions. It is based on OV2311 - global shutter monochrome image sensor from OmniVision.
 
-  
-  
 
 ## Getting Started
 
-  
 
 Prerequisities:
 
 - Host PC with 18.04 (64-bit) to flash the binaries in Jetson TX2/AGX Xavier development kit.
 
 - Jetpack version 4.2.2 (Strongly recommand), if you have some trouble in Jetpack version, see (optional).
-
-  
 
   
 ---
