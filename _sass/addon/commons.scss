@@ -395,6 +395,10 @@ footer {
         margin: 0.75rem 0 1rem 1rem;
       }
 
+      &.shadow {
+        filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.08));
+      }
+
     }
   }
 

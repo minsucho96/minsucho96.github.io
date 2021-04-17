@@ -135,7 +135,16 @@ By default, the image is centered, but you can specify the position by using one
   ![Desktop View](/assets/img/sample/mockup.png){: .right}
   ```
 
-**Limitation**: Once you specify the position of an image, it is forbidden to add the image caption.
+> **Limitation**: Once you specify the position of an image, it is forbidden to add the image caption.
+
+### Image shadow
+
+Image shadow is recommended for screenshots of program windows, visible in `light` mode:
+
+```markdown
+![Desktop View](/assets/img/sample/mockup.png){: .shadow}
+```
+
 
 ### CDN URL
 
