@@ -2,9 +2,9 @@
 title: STEEReoCAM
 author: Minsu Cho
 date: 2021-04-17 19:07:00 +0900
-categories: [Blogging, Xavier]
+categories: [Vision, Camera]
 tags: [camera]
-pin: true
+# pin: true
 ---
 
 # STEEReoCAM
