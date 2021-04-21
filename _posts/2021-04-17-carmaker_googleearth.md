@@ -1,5 +1,5 @@
 ---
-title: How to make connect CarMaker and GoogleEarth
+title: How to connect CarMaker and GoogleEarth
 author: Minsu Cho
 date: 2021-04-17 18:28:00 +0900
 categories: [CarMaker, map]
